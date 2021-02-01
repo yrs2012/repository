@@ -1,0 +1,286 @@
+{
+  "code": 10000,
+  "message": "处理成功",
+  "data": [
+    {
+      "name":"Test1",
+      "iconUrl":"https://yrs2012.github.io/repository/TemplateTest/icon/template1.jpg",
+      "music": {
+        "filePath": "https://yrs2012.github.io/repository/TemplateTest/musics/BANDSAW_15_V202012091629.mp3",
+        "clipType": "AUDIO",
+        "srcRange": {
+          "start": 0,
+          "end": 15511
+        },
+        "dstRange": {
+          "start": 0,
+          "end": 15511
+        },
+        "layer": 0,
+        "musicId": 5,
+        "iconUrl": "",
+        "musicName": "BANDSAW_15",
+        "version": 202012091629
+      },
+      "min_beat_time_interval": 0.8,
+      "min_transition_duration": 500,
+      "max_transition_duration": 1500,
+      "min_effect_duration": 1000,
+      "max_effect_duration": 3000,
+      "min_effect_num": 2,
+      "max_effect_num": 2,
+      "min_effect_gap": 5000,
+      "max_effect_gap": 6000,
+      "min_video_shot_interval": 1,
+      "clipList": [
+        {
+          "filePath": "1",
+          "clipType": "VIDEO",
+          "srcRange": {
+            "start": 0,
+            "end": 4360
+          },
+          "dstRange": {
+            "start": 0,
+            "end": 4360
+          },
+          "layer": 0
+        }, {
+          "filePath": "1",
+          "clipType": "VIDEO",
+          "srcRange": {
+            "start": 0,
+            "end": 5269
+          },
+          "dstRange": {
+            "start": 3860,
+            "end": 9129
+          },
+          "layer": 1
+        }, {
+          "filePath": "2",
+          "clipType": "PICTURE",
+          "srcRange": {
+            "start": 0,
+            "end": 5246
+          },
+          "dstRange": {
+            "start": 7729,
+            "end": 12975
+          },
+          "layer": 0
+        }, {
+          "filePath": "2",
+          "clipType": "PICTURE",
+          "srcRange": {
+            "start": 0,
+            "end": 3036
+          },
+          "dstRange": {
+            "start": 12475,
+            "end": 15511
+          },
+          "layer": 1
+        }],
+      "effectList": [
+        {
+          "id": 11,
+          "filePath": "https://yrs2012.github.io/repository/TemplateTest/effects/zoomin_V202012091629.zip",
+          "version": 202012091629,
+          "name": "zoomin",
+          "dstRange": {
+            "start": 2359,
+            "end": 4167
+          },
+          "layer": 5000,
+          "type": "TimeControl"
+        }, {
+          "id": 6,
+          "filePath": "https://yrs2012.github.io/repository/TemplateTest/effects/rightfullpicrotate_V202012091629.zip",
+          "version": 202012091629,
+          "name": "rightfullpicrotate",
+          "dstRange": {
+            "start": 9684,
+            "end": 11462
+          },
+          "layer": 5001,
+          "type": "TimeControl"
+        }],
+      "transitionList": [
+        {
+          "id": 5,
+          "filePath": "https://yrs2012.github.io/repository/TemplateTest/transitions/fade_V202012091629.zip",
+          "version": 202012091629,
+          "name": "fade",
+          "dstRange": {
+            "start": 3860,
+            "end": 4360
+          },
+          "layer": 1000,
+          "type": "TimeControl"
+        }, {
+          "id": 2,
+          "filePath": "https://yrs2012.github.io/repository/TemplateTest/transitions/circularmask2_V202012091629.zip",
+          "version": 202012091629,
+          "name": "circularmask2",
+          "dstRange": {
+            "start": 7729,
+            "end": 9129
+          },
+          "layer": 1001,
+          "type": "TimeControl"
+        }, {
+          "id": 4,
+          "filePath": "https://yrs2012.github.io/repository/TemplateTest/transitions/curtain_V202012091629.zip",
+          "version": 202012091629,
+          "name": "curtain",
+          "dstRange": {
+            "start": 12475,
+            "end": 12975
+          },
+          "layer": 1002,
+          "type": "TimeControl"
+        }]
+    },
+    {
+      "name":"Test2",
+      "iconUrl":"https://yrs2012.github.io/repository/TemplateTest/icon/template2.jpg",
+      "music": {
+        "filePath": "https://yrs2012.github.io/repository/TemplateTest/musics/AMIGOS4LIFE_30_V202012091629.mp3",
+        "clipType": "AUDIO",
+        "srcRange": {
+          "start": 0,
+          "end": 31000
+        },
+        "dstRange": {
+          "start": 0,
+          "end": 31000
+        },
+        "layer": 0,
+        "musicId": 5,
+        "iconUrl": "",
+        "musicName": "AMIGOS4LIFE",
+        "version": 202012091629
+      },
+      "min_beat_time_interval": 0.8,
+      "min_transition_duration": 500,
+      "max_transition_duration": 1500,
+      "min_effect_duration": 1000,
+      "max_effect_duration": 3000,
+      "min_effect_num": 2,
+      "max_effect_num": 2,
+      "min_effect_gap": 5000,
+      "max_effect_gap": 6000,
+      "min_video_shot_interval": 1,
+      "clipList": [
+        {
+          "filePath": "1",
+          "clipType": "VIDEO",
+          "srcRange": {
+            "start": 0,
+            "end": 4360
+          },
+          "dstRange": {
+            "start": 0,
+            "end": 4360
+          },
+          "layer": 0
+        }, {
+          "filePath": "1",
+          "clipType": "VIDEO",
+          "srcRange": {
+            "start": 0,
+            "end": 5269
+          },
+          "dstRange": {
+            "start": 3860,
+            "end": 9129
+          },
+          "layer": 1
+        }, {
+          "filePath": "2",
+          "clipType": "PICTURE",
+          "srcRange": {
+            "start": 0,
+            "end": 5246
+          },
+          "dstRange": {
+            "start": 7729,
+            "end": 12975
+          },
+          "layer": 0
+        }, {
+          "filePath": "2",
+          "clipType": "PICTURE",
+          "srcRange": {
+            "start": 0,
+            "end": 3036
+          },
+          "dstRange": {
+            "start": 12475,
+            "end": 15511
+          },
+          "layer": 1
+        }],
+      "effectList": [
+        {
+          "id": 11,
+          "filePath": "https://yrs2012.github.io/repository/TemplateTest/effects/zoomin_V202012091629.zip",
+          "version": 202012091629,
+          "name": "zoomin",
+          "dstRange": {
+            "start": 2359,
+            "end": 4167
+          },
+          "layer": 5000,
+          "type": "TimeControl"
+        }, {
+          "id": 6,
+          "filePath": "https://yrs2012.github.io/repository/TemplateTest/effects/rightfullpicrotate_V202012091629.zip",
+          "version": 202012091629,
+          "name": "rightfullpicrotate",
+          "dstRange": {
+            "start": 9684,
+            "end": 11462
+          },
+          "layer": 5001,
+          "type": "TimeControl"
+        }],
+      "transitionList": [
+        {
+          "id": 5,
+          "filePath": "https://yrs2012.github.io/repository/TemplateTest/transitions/fade_V202012091629.zip",
+          "version": 202012091629,
+          "name": "fade",
+          "dstRange": {
+            "start": 3860,
+            "end": 4360
+          },
+          "layer": 1000,
+          "type": "TimeControl"
+        }, {
+          "id": 2,
+          "filePath": "https://yrs2012.github.io/repository/TemplateTest/transitions/circularmask2_V202012091629.zip",
+          "version": 202012091629,
+          "name": "circularmask2",
+          "dstRange": {
+            "start": 7729,
+            "end": 9129
+          },
+          "layer": 1001,
+          "type": "TimeControl"
+        }, {
+          "id": 4,
+          "filePath": "https://yrs2012.github.io/repository/TemplateTest/transitions/curtain_V202012091629.zip",
+          "version": 202012091629,
+          "name": "curtain",
+          "dstRange": {
+            "start": 12475,
+            "end": 12975
+          },
+          "layer": 1002,
+          "type": "TimeControl"
+        }]
+    }
+  ]
+}
